@@ -1,0 +1,18 @@
+{
+  "version": 4,
+  "bpm": 120,
+  "bass_octave": 2,
+  "global_choice": 0,
+  "global_enabled": false,
+  "master_volume": 0.6,
+  "live_backing": false,
+  "bass_pattern": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+  "samples": [
+    "samples/tr808/01_bombo.wav",
+    "samples/tr808/02_caja.wav",
+    "samples/tr808/03_hat_cerrado.wav",
+    "samples/tr808/04_hat_abierto.wav",
+    "samples/tr808/05_palmas.wav",
+    "samples/tr808/06_tom.wav"
+  ]
+}

@@ -1,0 +1,11 @@
+/sampler-c
+/build/
+__pycache__/
+*.pyc
+
+/tribe64_state.json
+/demo_tribe64.wav
+/core
+
+/.sampler-build.lock
+/sampler-c.tmp.*

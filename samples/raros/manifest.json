@@ -1,0 +1,79 @@
+{
+  "origin": "Sintesis original del proyecto; sin grabaciones externas",
+  "license": "CC0-1.0",
+  "generator": "scripts/generar_raros.py",
+  "samples": [
+    {
+      "file": "01_radio_alien.wav",
+      "seconds": 3.8,
+      "description": "Radio alien: barrido FM y balizas que se cruzan.",
+      "sha256": "758c0fa95fef8b4cca853d68ae8f34c8fbd85984c95ab55e3e67c3ff43ca956f"
+    },
+    {
+      "file": "02_ballena_espacial.wav",
+      "seconds": 5.4,
+      "description": "Ballena espacial: lamento grave que cae y vuelve a subir.",
+      "sha256": "a3a21ce3d01ca7147f360d2e9968e7aa0d5a4c15cfdb0c583b742f59c9219d70"
+    },
+    {
+      "file": "03_robot_roto.wav",
+      "seconds": 3.2,
+      "description": "Robot roto: vocales digitales y cambios de tono escalonados.",
+      "sha256": "c8d57a3418badcd6cc148fb918eccd5d2d76ba8097f0829f08ff22136b402b4d"
+    },
+    {
+      "file": "04_cristales.wav",
+      "seconds": 4.6,
+      "description": "Cristales suspendidos: parciales inarmonicos que flotan.",
+      "sha256": "f61ecf750db3ea2111a18a2900186a0c767dc21ce2f8846c2cdee6fc423fda2e"
+    },
+    {
+      "file": "05_nave_abandonada.wav",
+      "seconds": 6.4,
+      "description": "Nave abandonada: drone grave con batidos y respiracion.",
+      "sha256": "ab81b7f5ca40e57556e485998cb031f3a4e0c2ae07ac3f5a2fa60a79df48c9ae"
+    },
+    {
+      "file": "06_enjambre.wav",
+      "seconds": 4.2,
+      "description": "Enjambre: nubes de microtonos que orbitan.",
+      "sha256": "da5a2114e615a0f0e13ff27b24ba922d61146e07a038fe8020a816ab9edc988e"
+    },
+    {
+      "file": "07_laser_derretido.wav",
+      "seconds": 3.7,
+      "description": "Laser derretido: caida continua y modulacion viscosa.",
+      "sha256": "bd1a944c9b416f5c043c9168197ea48a6dd971de30746254e20a2eaaf1475ba3"
+    },
+    {
+      "file": "08_fantasmas_cinta.wav",
+      "seconds": 5.6,
+      "description": "Fantasmas de cinta: coro sintetico con desafinacion lenta.",
+      "sha256": "ce4f99de7cfc3d7be5c5fe2df6ccd7af2e76aa462792d49c6dd1490ff990a48b"
+    },
+    {
+      "file": "09_portal_metal.wav",
+      "seconds": 4.8,
+      "description": "Portal metalico: resonancias que se abren y se retuercen.",
+      "sha256": "d41f816abf07331a9871d88a267cc943ba5315e36510648b307d2d591629c819"
+    },
+    {
+      "file": "10_sueno_maquina.wav",
+      "seconds": 4.4,
+      "description": "Sueno de maquina: arpegio espectral difuso.",
+      "sha256": "79ecff88bf0c4b69a8bd7c6123a8bc377c0461c9f6910a4e06171fb4e69f11f1"
+    },
+    {
+      "file": "11_agua_digital.wav",
+      "seconds": 4.9,
+      "description": "Agua digital: burbujas tonales y corriente filtrada.",
+      "sha256": "c4930bd7e97552532c6621afa65211e4ebfbe87a506a3bd08a985552afb35f28"
+    },
+    {
+      "file": "12_voz_inversa.wav",
+      "seconds": 5.2,
+      "description": "Voz inversa: formantes sinteticos que crecen hacia atras.",
+      "sha256": "64dcefd05d2cd2e7c786baa5afe1e1879735586d068954bc35077b771e055e06"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "origin": "Sintesis original del proyecto; sin grabaciones externas",
+  "license": "CC0-1.0",
+  "generator": "scripts/generar_house.py",
+  "demo_bpm": 124,
+  "demo_key": "C minor",
+  "samples": [
+    {
+      "file": "01_kick_house.wav",
+      "seconds": 0.56,
+      "description": "Bombo redondo con subgrave y ataque corto",
+      "notes": null,
+      "sha256": "6b61db49657032e0123f34e89c980fe8a2b6ee6e5ed4a2116d3f34bce9fcc227"
+    },
+    {
+      "file": "02_clap_house.wav",
+      "seconds": 0.3,
+      "description": "Palma de varias capas con cola filtrada",
+      "notes": null,
+      "sha256": "d705327a0ee9d21859bd7dd3a169a71d48a835a1a8b013677a1b4c670a7172a2"
+    },
+    {
+      "file": "03_hat_cerrado.wav",
+      "seconds": 0.105,
+      "description": "Charles cerrado brillante",
+      "notes": null,
+      "sha256": "517052962da882d39cb691567a48258f956e085910e968048ad566a3d6853120"
+    },
+    {
+      "file": "04_hat_abierto.wav",
+      "seconds": 0.32,
+      "description": "Charles abierto para contratiempos",
+      "notes": null,
+      "sha256": "cecb6ff4f902e125c70d7af9d4288e23eb1d411404f5a959fed79006b0c624ea"
+    },
+    {
+      "file": "05_shaker.wav",
+      "seconds": 0.14,
+      "description": "Shaker fino para semicorcheas",
+      "notes": null,
+      "sha256": "21a4d8ce99059062e120d174167cc24cd9d632315e3261bccf59fb47548c2613"
+    },
+    {
+      "file": "06_rim_house.wav",
+      "seconds": 0.13,
+      "description": "Rim corto y seco para sincopas",
+      "notes": null,
+      "sha256": "e3a48c00fbf9ae9aece011ed3e9b0cb729009c477b66ce75752f3a02a2920dd4"
+    },
+    {
+      "file": "07_bajo_C.wav",
+      "seconds": 0.29,
+      "description": "Bajo sintetico redondo en Do",
+      "notes": "C2",
+      "sha256": "19a3f2947783ccf46071a67861697ba78736eb59a9224f6e2a26491703e7f76d"
+    },
+    {
+      "file": "08_acorde_Cm7.wav",
+      "seconds": 0.7,
+      "description": "Acorde menor septima calido",
+      "notes": "C3 Eb3 G3 Bb3",
+      "sha256": "f194e38da13db4b68279c8c8e4883478304a84b5e1151769726ea7c85b507dd3"
+    },
+    {
+      "file": "09_fx_sweep.wav",
+      "seconds": 0.48,
+      "description": "Barrido de ruido ascendente corto",
+      "notes": null,
+      "sha256": "9a08245025b08ac2816761caed96a4d80a11fe3b9c61ccb118bd2b3bdc297c82"
+    },
+    {
+      "file": "10_caja_house.wav",
+      "seconds": 0.28,
+      "description": "Caja con cuerpo tonal y ruido",
+      "notes": null,
+      "sha256": "1350dee098fd83d1684fa9e2a234e528c4868549befa7f450bef132b8848f4cb"
+    },
+    {
+      "file": "11_ride.wav",
+      "seconds": 0.8,
+      "description": "Ride metalico con cola suave",
+      "notes": null,
+      "sha256": "9a6932a037ef495da4c94cedd9c3a61d02201ca0d9bd22c996169e95886b03cf"
+    },
+    {
+      "file": "12_organo_Fm.wav",
+      "seconds": 0.34,
+      "description": "Stab de organo en Fa menor",
+      "notes": "F3 Ab3 C4",
+      "sha256": "8553cfc595b1820b8fc29297ef5922105fb7899323c66bec225f58282740b080"
+    },
+    {
+      "file": "13_bajo_G.wav",
+      "seconds": 0.29,
+      "description": "Bajo sintetico en Sol",
+      "notes": "G2",
+      "sha256": "8c8b4e6470a7d7ced1ca46e689180f96bb3afc51b1b8d8beb75dd2dda7e0a5d9"
+    },
+    {
+      "file": "14_acorde_Abmaj7.wav",
+      "seconds": 0.7,
+      "description": "Acorde mayor septima para variar la armonia",
+      "notes": "Ab3 C4 Eb4 G4",
+      "sha256": "ff6f4a188dcef0d92b8a3c20d8976f538a40eb315fdb47a89f6c060b64c355f2"
+    },
+    {
+      "file": "15_fx_caida.wav",
+      "seconds": 0.85,
+      "description": "Caida de ruido filtrado para transiciones",
+      "notes": null,
+      "sha256": "b496119cf8cd0a93dc3a996b48a740a3d505276fde48780aa1076184bf0d106c"
+    },
+    {
+      "file": "16_vocal_sintetica.wav",
+      "seconds": 0.42,
+      "description": "Vocal sintetica tipo ah; sin voz grabada",
+      "notes": "C4",
+      "sha256": "0dbc00cecd2210e70562b967f3b8db43bd81b4110d28a7671349979cc53bda44"
+    }
+  ]
+}
